@@ -1,6 +1,6 @@
 <?php
 
-namespace Teunboeke2005/spawnondefault 
+namespace Teunboeke2005/spawnondefault;
 
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerLoginEvent;

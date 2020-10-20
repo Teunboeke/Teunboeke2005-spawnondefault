@@ -2,6 +2,6 @@
 build-by-default: true
 branches:
 - main
-projects: []
+projects: [spawnondefault]
 icon: spawn-51e325e6bba71.png
 ...

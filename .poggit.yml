@@ -1,6 +1,9 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Teunboeke/spawnondefault-
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/davidlouis101/SpawnOnDefaultWorld-Fixed
 build-by-default: true
 branches:
-projects: [spawnondefault]
-icon: spawn-51e325e6bba71.png
+- main
+projects:
+  SpawnOnDefaultWorld-Fixed:
+    path: ""
+    icon: "Logo/20201021_150143.png"
 ...

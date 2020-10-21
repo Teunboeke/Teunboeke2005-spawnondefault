@@ -16,7 +16,7 @@ class main extends Plugin implements Listener{
           	}
 
         public function onDisable() {
-	        $this->getServer()->getLogger()->info(TF::GREEN . "I been Enabled");
+	        $this->getServer()->getLogger()->info(TF::GREEN . "I been Disabled");
                 $this->getServer()->getLogger()->info(TF::AQUA . "Autor: Teunboeke & davidlouis101");
 	        }
             

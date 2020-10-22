@@ -1,7 +1,5 @@
 name: spawnondefault 
-author: 
-- Teunboeke2005 
-- davidlouis101
+author: Teunboeke2005 
 version: 1.0.0
-main: spawnondefault/Spawn
+main: spawnondefault/main
 api: 3.13.0

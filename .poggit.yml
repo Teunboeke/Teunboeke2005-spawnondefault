@@ -1,6 +1,7 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Teunboeke/spawnondefault-
 build-by-default: true
 branches:
+- main
 projects: [spawnondefault]
 icon: 20201021_150143.png
 ...

@@ -2,6 +2,9 @@
 build-by-default: true
 branches:
 - main
-projects: [spawnondefault]
-icon: 20201021_150143.png
+projects:
+ spawnondefault:
+path ""
+ icon: "Logo/20201021_150143.png"
+
 ...

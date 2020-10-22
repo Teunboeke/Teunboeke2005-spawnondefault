@@ -4,7 +4,7 @@ branches:
 - main
 projects:
  spawnondefault:
-path ""
+ path ""
  icon: "Logo/20201021_150143.png"
 
 ...

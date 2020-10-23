@@ -1,7 +1,7 @@
-name: spawnondefault 
+name: Teunboeke/spawnondefault 
 author: 
 - Teunboeke2005
 - davidlouis101
 version: 1.0.0
-main: spawnondefault/Spawn.php
+main: Teunboeke/spawnondefault/Spawn
 api: 3.13.0

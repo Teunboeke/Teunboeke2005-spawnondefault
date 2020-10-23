@@ -7,7 +7,7 @@ use pocketmine\event\player\PlayerLoginEvent;
 use pocketmine\plugin\PluginBase as Plugin;
 use pocketmine\utils\TextFormat as TF;
 
-class main extends Plugin implements Listener{
+class Spawn extends Plugin implements Listener{
 	
 	public function onEnable(){
   		$this->getServer()->getPluginManager()->registerEvents($this, $this);

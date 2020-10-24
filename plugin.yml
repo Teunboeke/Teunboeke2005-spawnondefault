@@ -3,5 +3,5 @@ author:
 - Teunboeke2005
 - davidlouis101
 version: 1.0.0
-main: Teunboeke\spawnondefault\Spawn
+main: Teunboeke\Spawnondefault\Spawn
 api: 3.13.0

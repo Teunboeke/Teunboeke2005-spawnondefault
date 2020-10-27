@@ -4,6 +4,6 @@ branches:
 - main
 projects:
   spawnondefault:
-    path: " "
+    path: ""
     icon: "20201026_175145-1.png"
 ...

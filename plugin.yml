@@ -1,7 +1,0 @@
-name: spawnondefault 
-authors: 
-- Teunboeke2005
-- davidlouis101
-version: 1.0.1
-main: Teunboeke\Spawnondefault\Spawn
-api: 3.13.0

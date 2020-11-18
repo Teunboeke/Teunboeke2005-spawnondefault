@@ -1,3 +1,3 @@
-# Teunboeke2005-spawnondefault
+# spawnondefault
 
 an plugin that set your force spawnpoint 
